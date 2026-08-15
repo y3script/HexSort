@@ -28,7 +28,7 @@ def organize_folder(target_dir):
 
   console.print(
       Panel.fit(
-          "[bold cyan]🚀 CYBER-CLEAN: CLI File Organizer[/bold cyan]",
+          "[bold cyan]🚀 HexSort: CLI File Organizer[/bold cyan]",
           border_style="magenta",
       )
   )
